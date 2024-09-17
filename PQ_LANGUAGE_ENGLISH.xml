@@ -1,0 +1,1377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lang language="English" separator="|">
+	<60502 caption="---" />
+	<60503 caption="---" />
+	<60504 caption="---" />
+	<60505 caption="---" />
+	<60506 caption="---" />
+	<60507 caption="---" />
+	<60508 caption="---" />
+	<60509 caption="---" />
+	<60511 caption="" />
+	<60512 caption="kpa|psi|bar" />
+	
+	<11003 caption="85.5" />
+	<11004 caption="MHz|KHz" />
+	<11081 caption="" />
+	<11083 caption="" />
+
+	<11005 caption=""/>
+	<11006 caption="" />
+	<11007 caption="" />
+	
+	<11008 caption="Track" />
+	<11009 caption="" />
+	
+	<11010 caption="|FM Audio|AM Audio|CD Audio|SD1 Audio|SD2 Audio|USB1 Audio|USB2 Audio|Bluetooth Audio" />
+
+	<11011 caption="FM" />
+	<11012 caption="AM" />
+	
+	<11211 caption="|Back" />
+	<11221 caption="|Back" />
+	<11231 caption="|Back" />
+	<11241 caption="|Back" />
+	<11251 caption="|Back" />
+	<11261 caption="|Back" />
+	<11271 caption="|Back" />
+	
+	<11111 caption="Infotainment is switch off.|Starting audio…" />
+	<11114 caption="List loading…|List loading completed|No list" />
+
+	<16001 caption="Bluetooth disconected|Bluetooth conected"/>
+	<16002 caption="Bluetooth connecting"/>
+	<!--<16002 caption=""/>-->
+	<16006 caption=""/>
+	<16008 caption=""/>
+	<16009 caption=""/>
+	<16010 caption="|End the call|Call to keep|Call|Is dialing|"/>
+	<16013 caption="|End|Cancel|Refuse|Answer|Ignore||Call to keep|Hold on||MIC ON|MIC OFF|||Private|Handsfree" />
+
+	<16066 caption="" />
+	<16067 caption="" />
+	<16068 caption="" />
+	<16069 caption="" />
+	<16070 caption="" />
+	
+	<16111 caption="|Back" />
+	<16121 caption="|Back" />
+	<16131 caption="|Back" />
+	<16141 caption="|Back" />
+	<16151 caption="|Back" />
+	<16161 caption="|Back" />
+	<16171 caption="|Back" />
+	
+	<16201 caption="No data" />
+	<16202 caption="Back" />
+	
+	<12002 caption="---" />
+	<12003 caption="---" />
+	<12004 caption="---" />
+	<12005 caption="---" />
+	<12006 caption="---" />
+	<12007 caption="---" />
+	<12008 caption="---" />
+	<12009 caption="---" />
+	<12010 caption="Tire pressure monitoring|Left front tire pressure exception|Right front tire pressure abnormality|Left rear tire pressure exception|Right rear tire pressure exception" />
+	<12011 caption="" />
+	<12012 caption="kpa|psi|bar" />
+	<12025 caption="||TMPS too low|TMPS too high|TMPS abnormal" />
+	
+	<12058 caption="|Door(s) open" />
+	
+	<12071 caption="" />
+    
+	<111020 />
+	<12029 />
+	<19602 />
+	
+	<12074 caption="No Fault" />
+		   
+	<13002 caption="|Speed alarm|Oil temperature|Consumption|Average consumption|Driving range|Elect consumption|Travel time|Driven distance|Average speed|Trip|Refuel Quantity||Adblue driving range" />
+	
+	<19902 caption="Not connected to vehicle！" />
+    
+	<!--数字速度 -->
+	<13011 caption="---" />
+	<13012 caption="km/h|mph" />
+	<!--车速报警 -->
+	<13013 caption="---" />
+	<13014 caption="km/h|mph"  />
+	<!--机油温度 -->
+	<13015 caption="---" />
+	<13016 caption="℃|℉" />
+	<!--消耗量 -->
+	<13017 caption="-.-" />
+	<13018 caption="l/h|gph(US)|gph(UK)|l/100km|km/l|mpg(US)|mpg(UK)" />
+	<!--平均消耗 -->
+	<13019 caption="---" />
+	<13020 caption="l/100km|km/l|mpg(US)|mpg(UK)" />
+	<!--续驶里程 -->
+	<13021 caption="---" />
+	<13022 caption="km|mi"  />
+	<!--用电器消耗 -->
+	<13023 caption="1/2|1/2|1/8|1/8" />
+	<13024 caption="l/h|l/h|gph(US)|gph(UK)"  />
+	<!--行驶时间 -->
+	<13025 caption="-:--" />
+	<13026 caption="h"  />
+	<!--行驶里程 -->
+	<13027 caption="---" />
+	<13028 caption="km|mi"  />
+	<!--平均速度 -->
+	<13029 caption="---" />
+	<13030 caption="km/h|mph" />
+	<!--小计里程 -->
+	<13031 caption="---.-" />
+	<13032 caption="km|mi" />
+	<!--可加注量 -->
+	<13033 caption="" />
+	<13034 caption="L" />
+	<!--Adblue -->
+	<13037 caption="-----" />
+	<13038 caption="km|mi"  />
+	<13302 caption="Refillable amount(L):"  />
+	<13304 caption="min:" />
+	<13305 caption="0.0|%.2f" />
+	<13306 caption=" - " />
+	<13307 caption="max:" />
+	<13308 caption="0.0|%.2f"/>
+	
+	<13007 caption="|accumulative|Since refueling|Since start" />
+	
+	<13101 caption="0" />
+	<13102 caption="1|1|1/4|1/4" />
+	<13106 >
+	    <caption caption="" />
+	    <caption caption="Air conditioning" />
+		<caption caption="Parking heating" />
+		<caption caption="Rear window heating" />
+		<caption caption="Left seat heating" />
+		<caption caption="Right seat heating" />
+		<caption caption="Left seat ventilation" />
+		<caption caption="Right seat ventilation" />
+		<caption caption="Left head space heating" />
+		<caption caption="Right head space heating" />
+		<caption caption="Front fog lights" />
+		<caption caption="Rear fog lamps" />
+		<caption caption="Front window heating" />
+		<caption caption="Steering wheel heater" />
+		<caption caption="Exterior mirror heating" />
+		<caption caption="Rear seat heating" />
+		<caption caption="Rear seat ventilation" />
+		<caption caption="socket" />
+		<caption caption="Beverage can bracket" />
+	</13106>
+	<13107 >
+	    <caption caption="" />
+	    <caption caption="Air conditioning" />
+		<caption caption="Parking heating" />
+		<caption caption="Rear window heating" />
+		<caption caption="Left seat heating" />
+		<caption caption="Right seat heating" />
+		<caption caption="Left seat ventilation" />
+		<caption caption="Right seat ventilation" />
+		<caption caption="Left head space heating" />
+		<caption caption="Right head space heating" />
+		<caption caption="Front fog lights" />
+		<caption caption="Rear fog lamps" />
+		<caption caption="Front window heating" />
+		<caption caption="Steering wheel heater" />
+		<caption caption="Exterior mirror heating" />
+		<caption caption="Rear seat heating" />
+		<caption caption="Rear seat ventilation" />
+		<caption caption="socket" />
+		<caption caption="Beverage can bracket" />
+	</13107>
+	<13108 >
+	    <caption caption="" />
+	    <caption caption="Air conditioning" />
+		<caption caption="Parking heating" />
+		<caption caption="Rear window heating" />
+		<caption caption="Left seat heating" />
+		<caption caption="Right seat heating" />
+		<caption caption="Left seat ventilation" />
+		<caption caption="Right seat ventilation" />
+		<caption caption="Left head space heating" />
+		<caption caption="Right head space heating" />
+		<caption caption="Front fog lights" />
+		<caption caption="Rear fog lamps" />
+		<caption caption="Front window heating" />
+		<caption caption="Steering wheel heater" />
+		<caption caption="Exterior mirror heating" />
+		<caption caption="Rear seat heating" />
+		<caption caption="Rear seat ventilation" />
+		<caption caption="socket" />
+		<caption caption="Beverage can bracket" />
+	</13108>
+	
+	<13112 caption="---" />
+	<13113 caption="km/h|MPH" />
+	<13114 caption="Set speed alarm" />
+	
+	<13122 caption="cancel|OK" />
+	<13123 caption="Reset trip" />
+	
+	<13131 caption="Speed alarm" />
+	
+	<13271 caption="|Coasting" />
+	
+	<13301 caption="Remaining: -- L|Remaining: %d L" />
+	
+	<13281 caption="Traffic signs|Traffic signs|Traffic signs:speeding" />
+	<13282 caption="%d" />
+	<13284 caption="No traffic signs" />
+	
+	<13293 caption="---km|---mi|%dkm|%dmi" />
+	<13295 caption="---km|---mi|%dkm|%dmi" />
+	
+	<13511 caption="Speed" />
+	<13513 caption="---" />
+	<13514 caption="km/h|mph" />
+	<13521 caption="Speed alarm" />
+	<13523 caption="---" />
+	<13524 caption="km/h|mph" />
+	<13531 caption="Oil temperature" />
+	<13533 caption="---" />
+	<13534 caption="℃|℉" />
+	<13541 caption="Consumption" />
+	<13543 caption="-.-" />
+	<13544 caption="l/h|gph(US)|gph(UK)|l/100km|km/l|mpg(US)|mpg(UK)" />
+	<13551 caption="Average consumption" />
+	<13553 caption="---" />
+	<13554 caption="l/100km|km/l|mpg(US)|mpg(UK)" />
+	<13561 caption="Driving range" />
+	<13563 caption="---" />
+	<13564 caption="km|mi" />
+	<13571 caption="Elect consumption" />
+	<13581 caption="Travel time" />
+	<13583 caption="-:--" />
+	<13584 caption="h" />
+	<13591 caption="Driven distance" />
+	<13593 caption="---" />
+	<13594 caption="km|mi" />
+	<13601 caption="Average speed" />
+	<13603 caption="---" />
+	<13604 caption="km/h|mph" />
+	<13611 caption="Trip" />
+	<13613 caption="---.-" />
+	<13614 caption="km|mi" />
+	<13621 caption="Refuel Quantity" />
+	<13623 caption="--" />
+	<13624 caption="L" />
+	<13631 caption="Traffic signs" />
+	<13633 caption="" />
+	<13641 caption="Adblue driving range" />
+	<13643 caption="-----" />
+	<13644 caption="km|mi" />
+	
+	<113501 caption="" />
+	<113502 caption="" />
+	<113503 caption="" />
+	<113504 caption="" />
+	<113505 caption="" />
+	<113542 caption="---" />
+	<113543 caption="km|mi" />
+	
+	<!--设置-->
+	<70002 caption="Ambient Light||Dashboard type|||||||LHD/RHD Configuration|Language|Boot Sound|Car logo|Cartype icon|Camera select||||||CarType|Configure Calibration|Engineering mode|Race mode|Physical light|Screen test|" />
+		   
+	<!--氛围灯 -->
+	<70011 caption="" />
+	<70012 caption="" />
+	<!--保养信息 -->
+	<70013 caption="" />
+	<70014 caption="" />
+	<!--表盘风格 -->
+	<70015 caption="Normal|Sport" />
+	<70016 caption=""  />
+	<!--版本信息 -->
+	<70019 caption="" />
+	<70020 caption="" />
+	<!--驾驶舱位置 -->
+	<70029 caption="Auto|LHD|RHD" />
+	<70030 caption=""  />
+	<!--语言 -->
+	<70031 caption="Auto" />
+	<70032 caption=""  />
+	<!--开机声音 -->
+	<70033 caption="ON|OFF" />
+	<70034 caption=""  />
+	<!--开机车标 -->
+	<70035 caption="OFF|ON" />
+	<70036 caption=""  />
+	<!--车型图标 -->
+	<70037 caption="Auto" />
+	<70038 caption=""  />
+	<!--视频选择 -->
+	<70039 caption="Rear|Right" />
+	<70040 caption=""  />
+	<!--蓝牙连接 -->
+	<70041 caption="Disconn|Conn" />
+	<70042 caption=""  />
+	<!--wifi连接 -->
+	<70043 caption="" />
+	<70044 caption=""  />
+	<!--便捷功能 -->
+	<70045 caption="" />
+	<70046 caption=""  />
+	<!--车灯与视野 -->
+	<70047 caption="" />
+	<70048 caption=""  />
+	<!--辅助设置 -->
+	<70049 caption="" />
+	<70050 caption=""  />
+	<!--车型选择 -->
+	<70051 caption="" />
+	<70052 caption=""  />
+	<!--油箱容量 -->
+	<70053 caption="" />
+	<70054 caption=""  />
+	<!--开发者调试 -->
+	<70055 caption="OFF|ON" />
+	<70056 caption=""  />
+	<!--竞速模式 -->
+	<70057 caption="OFF|ON" />
+	<70058 caption=""  />
+	<!--物理灯 -->
+	<70059 caption="OFF|ON" />
+	<70060 caption=""  />
+	<!--屏幕测试 -->
+	<70061 caption="OFF|ON" />
+	<70062 caption=""  />
+	<!--单位设置 -->
+	<70063 caption="" />
+	<70064 caption=""  />
+	
+	<70141 caption="Version Info" />
+	<70144 caption="kernel:" />
+	<70147 caption="app:" />
+	<70148 caption="mcuiap:" />
+	<70149 caption="mcuapp:" />
+	<70150 caption="guniap:" />
+	<70151 caption="gunapp:" />
+	
+	<70154 caption="" />
+	<70157 caption="" />
+	<70158 caption="" />
+	<70159 caption="" />
+	<70160 caption="" />
+	<70161 caption="" />
+	
+	<70175 caption="Ambient light setting" />
+	<70176 caption="Press 'Up' 'Down' to select color" />
+	
+	<!--保养信息-->
+	<70183 caption="Oil change maintenance" />
+	<70184 caption="-----" />
+	<70185 caption="km" />
+	<70186 caption="/" />
+	<70187 caption="---" />
+	<70188 caption="days" />
+	<70189 caption="Condition check" />
+	<70190 caption="-----" />
+	<70191 caption="km" />
+	<70192 caption="/" />
+	<70193 caption="---" />
+	<70194 caption="days" />
+	<70195 caption="" />
+	<70202 caption="cancel|OK" />
+	<70203 caption="Sure to reset the maintenance information?" />
+	
+	<70251 caption="Set time" />
+	
+	<70260 caption="2021" />
+	<70261 caption="-" />
+	<70263 caption="01" />
+	<70264 caption="-" />
+	<70266 caption="01" />
+	
+	<70253 caption="00" />
+	<70254 caption=":" />
+	<70256 caption="00" />
+	<70258 caption="cancel|OK" />
+	
+	<70282 caption="Normal|Sport" />
+	<70283 caption="" />
+	<70284 caption="Dashboard type set" />
+	
+	<70291 caption="Brightness" />
+	<70300 caption="Range:2-16|Range:2-16 Current:%d" />
+	<70292 caption="Day" />
+	<70294 caption="--" />
+	<70295 caption="Night" />
+	<70297 caption="--" />
+	<70299 caption="cancel|OK" />
+	
+	<70351 caption="FM transmitter" />
+	<70352 caption="Switches" />
+	<70354 caption="OFF|ON" />
+	<70355 caption="Frequency" />
+	<70357 caption="---.-" />
+	<70359 caption="cancel|OK" />
+	
+	<70401 caption="Pointer style" />
+	<70402 caption="Follow ambient light" />
+	<70404 caption="OFF|ON" />
+	<70413 caption="Press 'Up' 'Down' to select color" />
+	
+	<70493 caption="Car color" />
+	<70494 caption="Press 'OK' to set|Press 'Up' 'Down' to select color" />
+	
+	<70511 caption="Ambient Light" />
+	<70521 caption="Maintenance" />
+	<70531 caption="Dashboard type" />
+	<70533 caption="Normal|Sport" />
+	<70541 caption="Set time" />
+	<70551 caption="Version info" />
+	<70561 caption="Brightness" />
+	<70571 caption="FM transmitter" />
+	<70581 caption="Pointer style" />
+	<70591 caption="Car color" />
+	<70601 caption="LHD/RHD Configuration" />
+	<70603 caption="Auto|LHD|RHD" />
+	<70611 caption="Language" />
+	<70613 caption="Auto" />
+	<70621 caption="Boot Sound" />
+	<70623 caption="ON|OFF" />
+	<70631 caption="Car logo" />
+	<70633 caption="OFF|ON" />
+	<70641 caption="Cartype icon" />
+	<70643 caption="Auto" />
+	<70651 caption="Camera select" />
+	<70653 caption="Rear|Right" />
+	<70661 caption="Bt conn" />
+	<70663 caption="Diconn|Conn" />
+	<70671 caption="WIFI Conn" />
+	<70673 caption="" />
+	<70681 caption="Convenience" />
+	<70683 caption="" />
+	<70691 caption="Lights and vision" />
+	<70693 caption="" />
+	<70701 caption="Auxiliary settings" />
+	<70703 caption="" />
+	<70711 caption="CarType" />
+	<70713 caption="" />
+	<70721 caption="Configure Calibration" />
+	<70723 caption="" />
+	<70731 caption="Engineering mode" />
+	<70733 caption="OFF|ON" />
+	<70741 caption="Race mode" />
+	<70743 caption="OFF|ON" />
+	<70751 caption="Physical light" />
+	<70753 caption="OFF|ON" />
+	<70761 caption="Screen test" />
+	<70763 caption="OFF|ON" />
+	<70771 caption="Unit Set" />
+	<70773 caption="" />
+	
+	<70422 caption="Auto|LHD|RHD" />
+	<70423 caption="" />
+	<70424 caption="LHD/RHD Configuration" />
+	
+	<70432 caption=" Auto" />
+	<70433 caption="" />
+	<70434 caption="Language" />
+	
+	<70442 caption="ON|OFF" />
+	<70443 caption="" />
+	<70444 caption="Boot Sound" />
+	
+	<72002 caption="OFF|ON" />
+	<72003 caption="" />
+	<72004 caption="Car logo" />
+	
+	<72435 caption="Distance" />
+	<72436 caption="km" />
+	<72437 caption="mi" />
+	<72438 caption="vehicle speed" />
+	<72439 caption="km/h" />
+	<72440 caption="mpg" />
+	<72441 caption="volume" />
+	<72442 caption="L" />
+	<72443 caption="Gallon(US)" />
+	<72444 caption="Gallon(UK)" />
+	<72445 caption="consumption" />
+	<72446 caption="L/100KM" />
+	<72447 caption="KM/L" />
+	<72448 caption="MPG(US)" />
+	<72449 caption="MPG(UK)" />
+	<72450 caption="temperature" />
+	<72451 caption="℃" />
+	<72452 caption="℉" />
+	<72453 caption="pressure" />
+	<72454 caption="KPa" />
+	<72455 caption="Psi" />
+	<72456 caption="bar" />
+	<72457 caption="time" />
+	<72458 caption="12" />
+	<72459 caption="24" />
+	
+	<72448 caption="Back" />
+	<72449 caption="Press'OK'to set|Select Back finish" />
+	
+	<72012 caption="Auto" />
+	<72013 caption="" />
+	<72014 caption="Cartype icon" />
+	
+	<72122 caption="Rear|Right" />
+	<72123 caption="" />
+	<72124 caption="Camera select" />
+	
+	<72024 caption="BT Device" />
+	<72025 caption="My Device" />
+	<72021 caption="" />
+	<72022 caption="No conn infomation" />
+	<72027 caption="Search|Stop Search|Update lIST..." />
+	<72029 caption="" />
+	<72031 caption="" />
+	<72033 caption="" />
+	<72034 caption="0/0|%d/%d" />
+	<72035 caption="Back" />
+	
+	<72051 caption="WIFI Conn" />
+	<72052 caption="Set the mobile hotspot wifi as" />
+	<72053 caption="Account:%ls" />
+	<72054 caption="Passwd:%ls" />
+	<72059 caption="IP Address|%s" />
+	<72055 caption="State:Disconn|State:Conn|State:Connecting...|State:Disconnecting..." />
+	<72056 caption="Conn|Diconn" />
+	<72057 caption="Back" />
+	<72060 caption="Upgrade" />
+	
+	<!--便捷功能-->
+	<72071 caption="Convenience" />
+	<72072 caption="Door lock" />
+	<72073 caption="Auto lock" />
+	<72075 caption="Auto Unlock" />
+	<72077 caption="Door unlock" /> 
+	<72078 caption="All doors|single door|single door" />
+	<72079 caption="Window Convenience Control" />
+	<72080 caption="disabled|all|driver side" />
+	<72081 caption="default" />
+	<72082 caption="|Confirm" />
+	<!--车灯与视野-->
+	<72091 caption="Lights and vision" />
+	<72092 caption="Back home" />
+	<72093 caption="Off| 10s| 20s| 30s" />
+	<72094 caption="Away Home" />
+	<72095 caption="Off| 10s| 20s| 30s" />
+	<72096 caption="footwell light" />
+	<72097 caption="Off|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%" />
+	<72098 caption="lane change" />
+	<72100 caption="Travel" />
+	<72102 caption="Mirror adjustment" />
+	<72103 caption="Single adjustment|synchronous adjustment" />
+	<72104 caption="daytime running lights" />
+	<72106 caption="default" />
+	<72107 caption="|Confirm" />
+	
+	<72111 caption="Auxiliary settings" />
+	<72112 caption="Headlights follow" />
+	<72114 caption="Fatigue recognition" />
+	<72116 caption="Winter tires" />
+	<72117 caption="30km/h|50km/h|70km/h|90km/h|100km/h|110km/h|120km/h" />
+	<72118 caption="AUTO HOLD" />
+	<72200 caption="Tire Reset" />
+	<72201 caption="Traffic sign" />
+	<72203 caption="Electronic Suspension" />
+	<72204 caption="Sports|Normal|Comfortable" />
+	<72205 caption="Parking radar automatic activation" />
+	<72207 caption="Close windows on rainy days" />
+	<72209 caption="Anti-theft device confirmation" />
+	<72211 caption="Rearview mirror turn down" />
+	<72086 caption="Coast mode" />
+	<72088 caption="Touch free back cover" />
+	<72213 caption="Vehicle load" />
+	<72214 caption="Full load|Standard" />
+	<72215 caption="Tire Model" />
+	<72216 caption="215/65R16|235/55R17|235/50R18|255/45R19|custom" />
+	<72220 caption="Parking and shunting" />
+	<72221 caption="Pressure monitor" />
+	
+	<72142 caption="" />
+	<72143 caption="" />
+	<72144 caption="CarType" />
+	
+	<72151 caption="Fuel Tank" />
+	<72153 caption="0" />
+	<72155 caption="0" />
+	<72156 caption="L" />
+	<72158 caption="cancel|OK" />
+	
+	<72159 caption="Speed calibration" />
+	<72161 caption="0" />
+	<72163 caption="cancel|OK" />
+	
+	<72164 caption="consumption calibration" />
+	<72230 caption="Manual|Auto" />
+	<72166 caption="0" />
+	<72168 caption="cancel|confirm" />
+	
+	<72172 caption="OFF|ON" />
+	<72173 caption="" />
+	<72174 caption="Engineering mode" />
+	
+	<72042 caption="Cancle|U Disk|OTA" />
+	
+	<72182 caption="OFF|ON" />
+	<72183 caption="" />
+	<72184 caption="Race mode" />
+
+	<72187 caption="OFF|ON" />
+	<72188 caption="" />
+	<72189 caption="Physical light" />
+	
+	<72192 caption="OFF|ON" />
+	<72193 caption="" />
+	<72194 caption="Screen test" />
+	
+	<72042 caption="Cancel|UDisk|OnLine" />
+	<72043 caption="" />
+	<72044 caption="Upgrade" />
+	
+	<72501 caption="" />
+	<72502 caption="" />
+	<72503 caption="" />
+	<72504 caption="" />
+	<72505 caption="" />
+	<72542 caption="---" />
+	<72543 caption="km|mi" />
+	
+	<!--竞速-->
+	<25013 caption="%d" />
+	<25014 caption="km/h" />
+	<25015 caption="speed" />
+	
+	<25018 caption="%.1f" />
+	<25019 caption="g" />
+	<25020 caption="acceleration" />
+	
+	<25023 caption="%.1f" />
+	<25024 caption="m" />
+	<25025 caption="distance" />
+	
+	<25028 caption="%.1f" />
+	<25029 caption="s" />
+	<25030 caption="time" />
+	
+	<25041 caption="10km/h:" />
+	<25042 caption="%.1fs" />
+	
+	<25043 caption="50km/h:" />
+	<25044 caption="%.1fs" />
+	
+	<25045 caption="100km/h:" />
+	<25046 caption="%.1fs" />
+	
+	<25052 caption="Start|Stop" />
+	<25053 caption="Speed to zero|" />
+	<25054 caption="Speed to zero，Press 'OK' to record|Press 'OK' to stop record" />
+	
+	<!--导航-->
+	<17002 caption="|Navigation without signal" />
+	<17003 caption="|Reversible video no signal" />
+	<17013 caption="Rear|Right" />
+	<17022 
+	caption="FM transmitter ON \n Set multimedia navigation system frequency to|FM transmitter OFF  Turn on the transmitter and set the transmission frequency in Vehicle Data." 
+	/>
+	<17023 caption="" />
+	<17014 caption="|no signal" />
+	
+	<!--导航OSD-->
+	<17111 caption="Speed" />
+	<17113 caption="---" />
+	<17114 caption="km/h|mph" />
+	<17121 caption="Set speed alarm" />
+	<17123 caption="---" />
+	<17124 caption="km/h|mph" />
+	<17131 caption="Oil temperature" />
+	<17133 caption="---" />
+	<17134 caption="℃|℉" />
+	<17141 caption="Consumption" />
+	<17143 caption="-.-" />
+	<17144 caption="l/h|gph(US)|gph(UK)|l/100km|km/l|mpg(US)|mpg(UK)" />
+	<17151 caption="Average consumption" />
+	<17153 caption="---" />
+	<17154 caption="l/100km|km/l|mpg(US)|mpg(UK)" />
+	<17161 caption="Driving range" />
+	<17163 caption="---" />
+	<17164 caption="km|mi" />
+	<17171 caption="Elect consumption" />
+	<17173 caption="---" />
+	<17174 caption="l/h|gph(US)|gph(UK)|l/100km|km/l|mpg(US)|mpg(UK)" />
+	<17181 caption="Travel time" />
+	<17183 caption="-:--" />
+	<17184 caption="h" />
+	<17191 caption="Driven distance" />
+	<17193 caption="---" />
+	<17194 caption="km|mi" />
+	<17201 caption="Average speed" />
+	<17203 caption="---" />
+	<17204 caption="km/h|mph" />
+	<17211 caption="Trip" />
+	<17213 caption="---.-" />
+	<17214 caption="km|mi" />
+	<17221 caption="Refuel Quantity" />
+	<17223 caption="--" />
+	<17224 caption="L" />
+	<17231 caption="Traffic signs" />
+	<17233 caption="" />
+	<13231 caption="Adblue driving range" />
+	<13233 caption="-----" />
+	<13234 caption="km|mi" />
+	
+	
+	<14401 caption="ACC and Lane Keep are turned off." />
+		
+	<14011 caption="Cruise control"/>
+	<14021 caption="Speed limit"/>
+	<14031 caption="Lane keeping"/>
+	<14041 caption="Blind spot"/>
+	<14051 caption="Drive-out"/>
+	<14061 caption="Front assist"/>
+	<14071 caption="Peds Detect"/>
+	<14081 caption="Back"/>
+	
+	<14092 caption="|Turn on the driver assistance !"/>
+	
+	<17401 caption="Motor" />
+	
+	<17410 caption="Power"/>
+	<17404 caption="%"/>
+	<17405 caption="0|%d"/>
+	
+	<17411 caption="Torque"/>
+	<17408 caption="%"/>
+	<17409 caption="0|%d"/>
+	
+	<17418 caption="Turbo"/>
+	<17416 caption="%"/>
+	<17417 caption="0|%.1f"/>
+
+	<14608 >
+	    <caption cap_vector="||||||||||" />										<!--0x00 ~ 0x0a-->
+	    <caption caption="vehicle adjustment not available" />						<!--0x0b-->
+	    <caption caption="Adaptive Cruise (ACC): sensor has no data!" />			<!--0x0c-->
+	    <caption caption="Adaptive Cruise (ACC): is not available." />				<!--0x0c-->
+	    <caption cap_vector="|" />													<!--0x0e ~ 0x0f-->
+	    <caption caption="Electronic Stability Program (ESC) Intervention" />		<!--0x10-->
+	    <caption caption="" />														<!--0x11-->
+	    <caption caption="Deactivate the parking brake!" />						<!--0x12-->
+	    <caption caption="speed limit" />											<!--0x13-->
+	    <caption caption="Note the shift lever position!" />						<!--0x14-->
+	    <caption cap_vector="||||||||||||" />										<!--0x15 ~ 0x21-->
+	    <caption caption="The door is not closed." />								<!--0x22-->
+	    <caption caption="Driver belt is not fast." />								<!--0x23-->
+	    <caption caption="Note the shift lever position!" />						<!--0x24-->
+	    <caption caption="Speed!" />												<!--0x25-->
+	    <caption cap_vector="|||||" />												<!--0x26 ~ 0x2b-->
+	    <caption caption="downhill assist system is activated." />					<!--0x2c-->
+	    <caption cap_vector="|||" />												<!--0x2d ~ 0x30-->
+	    <caption caption="Slope is too big!" />										<!--0x31-->
+	    <caption cap_vector="||" />													<!--0x32 ~ 0x34-->
+	    <caption caption="Adaptive Cruise (ACC): is deactivated." />				<!--0x35-->
+	    <caption caption="Adaptive Cruise (ACC): Starting..." />					<!--0x36-->
+	    <caption caption="" />														<!--0x37-->
+	    <caption caption="Fault: Adaptive Cruise (ACC)" />							<!--0x38-->
+	    <caption caption="" />														<!--0x39-->
+	    <caption caption="Brake!" />												<!--0x3a-->
+	    <caption caption="The clutch pedal has been depressed." />					<!--0x3b-->
+	    <caption cap_vector="|||" />												<!--0x3c ~ 0x3f-->
+	    <caption caption="Brake overheated." />										<!--0x40-->
+	    <caption caption="brake intervention." />									<!--0x41-->
+	    <caption caption="Electronic stability program (ESC) is not involved." />	<!--0x42-->
+	    <caption caption="Adaptive Cruise (ACC): Startup is ready." />				<!--0x43-->
+	    <caption caption="Please hang up!" />										<!--0x44-->
+	    <caption caption="You're avoiding overtaking on the right side." />		<!--0x45-->
+	    <caption caption="Asked on the left side of the car." />					<!--0x46-->
+	    <caption caption="speed limit" />											<!--0x47-->
+	    <caption caption="Cannot adjust the speed for the corner/traffic flag." />	<!--0x48-->
+	    <caption caption="Cannot adjust the speed for the traffic sign." />		<!--0x49-->
+	    <caption caption="Cannot adjust the speed for corners." />				<!--0x4a-->
+	    <caption cap_vector="||||" />												<!--0x4b ~ 0x4f-->
+	    <caption caption="Engine stall status is activated." />					<!--0x50-->
+	    <caption caption="The brake pedal has been depressed." />					<!--0x51-->
+	    <caption caption="Electronic Stability Program (ESC) Intervention" />		<!--0x52-->
+	    <caption caption="Speed limiter is activated." />							<!--0x53-->
+	</14608>
+	<14611 caption="Adaptive Cruise (ACC): is not available." />
+	<14712 caption="Don't support speed limit" />
+
+	<14802 caption="Lane Keep enable" />
+	<14804 caption="Alarm time point" />
+	<14805 caption="In advance|in time|in time" />
+	<14806 caption="Alarm Intensity" />
+	<14807 caption="weak|medium|strong" />
+
+	<14822 caption="Front auxiliary enable" />
+	<14824 caption="warning" />
+	<14825 caption="Off|On" />
+	<14826 caption="Distance Alarm" />
+	<14827 caption="Off|On" />
+	<14828 caption="ACC Basic Settings" />
+	<14829 caption="Standard|Sport|Economy" />
+	<14830 caption="ACC distance" />
+	<14831 caption="minimum|small|medium|large|maximum|last setting" />
+	
+	<14842 caption="Blind spot monitoring enabled" />                  <!--盲区监控开关-->
+	<14844 caption="Lane changing assistance" />                      <!--变道辅助开关-->
+	<14846 caption="Lane change assist brightness" />                  <!--变道辅助亮度-->
+	<14847 caption="dark|Darker|medium|brighter|bright" />          <!--变道辅助亮度选项-->
+	
+	<15001 caption="Classic"/>
+	<15002 caption="Sport"/>
+	<15003 caption="Sport Rainbow"/>
+	<15004 caption="Sport Race"/>
+	<15005 caption="Digital"/>
+	<15006 caption="Gear & speed"/>
+	<15007 caption="Economic & range"/>
+	<15008 caption="Economic"/>
+	<15009 caption="Navigation"/>
+	<15010 caption="Driving assistant"/>
+	<15011 caption="Return"/>
+	<15032 caption="View" />
+	
+	<!--                                       "1|2|3                 |4                                              |5                                  |6                                           |7                                                        |8                                  |9                                                  |10                              "-->
+	<!--<19102 caption="||Airbag system failure.|Electric-mechanical steering system failure.|Electronic throttle system failure.|The electronic parking brake is switched on.|Central alarm light: Be sure to strictly follow the auxiliary information displayed on the instrument cluster display.|Exhaust gas related systems or components fail.|ESC system is faulty or electronic stability control system (ESC) is being adjusted.|The electronic stability control system (ESC) is being adjusted" 
+	algin="center" />-->
+	<!--                                        "1                                                                                     |2|3                                            |4|5                  |6                                                   |7|8|9|10"-->
+	<!--<19103 caption="Do not keep driving \n The brake fluid level is too low or the brake system is faulty.||Electric-mechanical steering effect is reduced.||Parking brake failure.|Central alarm light: Be sure to strictly follow the auxiliary information displayed on the instrument cluster display.||||" 
+	algin="center" />-->
+	<!--                                        "1|               |2                                  |3                             |4                                                                          |5|6|7|8             |9|10                             "-->
+	<!--<19104 caption="Excessive wear of brake pads.|Tire pressure is too low \n Tire pressure monitoring system failure.|The engine or battery energy system is faulty.|Do not keep driving \n The engine oil pressure is too low| please turn off the engine| and then check the engine oil level.|||||Depress the brake pedal.|" 
+	algin="center" />-->
+	<!--                                        "1              |2            3|                                                                                     |4|5                           |6|7                              |8        |9   "-->
+	<!--<19105 caption="The drive anti-skid system (ASR) has been closed manually.|Please fasten your seat belt.|Fuel stock is too low.|Do not keep driving \n The coolant temperature is too high or the coolant level is too low: stop the engine to cool. Check the coolant level.||The lane keep the system open but not activated.||ECO TIPS \n Do not step on the throttle when stopping|speed alarm|call" 
+	algin="center" />-->
+	
+	<34002 caption="" />
+	<34021 caption="|Voice operation is not supported" />
+	<34031 caption="" />
+	<34032 caption="" />
+	<34033 caption="" />
+	
+	<34041 caption="Voice Assist" />
+	
+	<31920 caption="Auto steering active. Check surround area!" />
+	<32020 caption="Auto steering active. Check surround area!" />
+	
+	<32541 >
+	    <caption caption="Park Assist canceled. Driver steering intervtn" />
+        <caption caption="Trailer: Park Assist canceked." />
+        <caption caption="ASR closed. Please take over steering." />
+        <caption caption="Time limit exceeded. Take over steering!" />
+        <caption caption="Auto steering canceled. Take over steering!" />
+        
+        <caption caption="Take over steering! Finish parking manually!" />
+        <caption caption="Speed too high. Take over steering!" />
+        <caption caption="ASR intervention. Please take over steering." />
+        <caption caption="Park Assist canceled. Not available now." />
+        <caption caption="Park Assist available!Service vehicle." />
+        
+        <caption caption="Please take over steering and continue driving." />
+        <caption caption="Leaving space autom. not poss. Space too small." />
+        <caption caption="Brake intervention. Speed too high." />
+        <caption caption="Speed too high. Apply the brakes." />
+        <caption caption="Park Assist: Take over vehicle!" />
+        
+        <caption caption="Obstacle detected. Parking maneuver not possible." />
+        <caption caption="Park Assist ended. Take over steering!" />
+        <caption caption="Park Assist canceled. Sliding door open." />
+        <caption caption="Parking not possible. Space too small." />
+        <caption caption="Maneuver braking function currently not available." />
+        
+        <caption caption="Maneuver braking press brake pedal!" />
+        <caption caption="Park Assist ended." />
+        <caption caption="Maneuver braking function currently not available." />
+        <caption caption="Park Assist: ASR intervention." />
+        <caption caption="Park Assist canceled. ASR deactivated." />
+        
+        <caption caption="Trailer: Park Assist canceked." />
+        <caption caption="Park Assist canceled. Time limit exceeded." />
+        <caption caption="Park Assist currently not available." />
+        <caption caption="Park Assist not available!Service vehicle." />
+        <caption caption="Park Assist: Stationary time insufficient!" />
+        
+        <caption caption="Park Assist: Speed too low." />
+        <caption caption="Please turn on turn signal and shift into reverse." />
+        <caption caption="Leaving space autom. not poss. Space too small." />
+        <caption caption="Maneuver braking active." />
+        <caption caption="Park Assist canceled. Speed too high." />
+        
+        <caption caption="Park Assist canceled. Sliding door open." />
+        <caption caption="Parking not possible. Opposite side blocked." />
+        <caption caption="Parking not possible. Space too small." />
+		
+		<!--2代泊车-->
+        <caption caption="The end of the parking steering assist system."/>
+        <caption caption="The parking and steering assist vehicle speed is too high."/>
+				 
+        <caption caption="Parking steering assist: Anti acceleration slip control (ASR) intervention."/>
+        <caption caption="The parking steering assist system is finished. The ASR is deactivated."/>
+        <caption caption="Trailer: end of parking steering assist system."/>
+        <caption caption="The parking steering assist system is over. The time limit has been exceeded."/>
+        <caption caption="Parking steering assist is currently unavailable."/>
+				 
+        <caption caption="Parking and steering assist system fault. Service station!"/>
+        <caption caption="Parking and steering assistance: the car is not stationary enough."/>
+        <caption caption="Parking steering aid: The vehicle speed is too low."/>
+        <caption caption="ParkAssisted steering: Please turn on the turn signal and shift into reverse!"/>
+        <caption caption="Cannot leave the parking space automatically. The spacing is too small."/>
+				 
+        <caption caption="Parking steering aid: vehicle speed too high."/>
+        <caption caption="Parking steering aid is over. The vehicle speed is too high."/>
+        <caption caption="The parking and steering assist system is finished. The driver intervenes in the steering."/>
+        <caption caption="Trailer: end of parking steering assist system."/>
+        <caption caption="ASR closed| please take over the steering operation!"/>
+				 
+        <caption caption="Time limit exceeded. Please take over the steering operation!"/>
+        <caption caption="The steering intervention is over. Please take over the steering operation!"/>
+        <caption caption="Please take over the steering operation! Manually end the parking process!"/>
+        <caption caption="The vehicle speed is too high. Please take over the steering operation!"/>
+        <caption caption="ASR intervention. Please take over the steering operation!"/>
+				 
+        <caption caption="The parking steering assist system is finished. It is currently unavailable."/>
+        <caption caption="Parking and steering assist system fault. Service station!"/>
+        <caption caption="Please take over the steering operation and continue driving."/>
+        <caption caption="Cannot automatically leave the parking space. The spacing is too small."/>
+        <caption caption="Brake intervention. The vehicle speed is too high."/>
+				 
+        <caption caption="Press the brake pedal!"/>
+        <caption caption="Press the brake pedal!"/>
+        <caption caption="Obstacles identified. Unable to park."/>
+        <caption caption="The parking and steering assist system is over. Please take over the steering operation!"/>
+	</32541>
+	
+	
+	<32551 caption="Park Assist" />
+	
+	<19212 caption="Oil change maintenance" />
+	<19213 caption="-----" />
+	<19214 caption="km" />
+	<19215 caption="/" />
+	<19216 caption="---" />
+	<19217 caption="days" />
+	<19218 caption="Condition check" />
+	<19219 caption="-----" />
+	<19220 caption="km" />
+	<19221 caption="/" />
+	<19222 caption="---" />
+	<19223 caption="days" />
+	
+	<22102 caption="Drive mode" />
+	<22103 caption="|Snow|Offroad|Offroad custom:Please check the settings|" />
+	<22104 caption="Eco|Normal|Sport|Custom:Please check the settings|eMode|Mix|Keep|Charge|" />
+	
+	<19232 
+		   caption="|Time|Maintenance|Sure to reset change oil maintenance data?|Sure to reset condition check maintenance data?|Maintenance service data has been reset." 
+		   />
+		   
+	<19603 >
+		<caption cap_vector="||||||||||||||||||||||||||||||||||"/>
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption cap_vector="||||||||||||||||||||||||||||||||||||||||||||||" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption caption="Check all tires and store the tire pressures!" />
+		<caption cap_vector="|" />
+	</19603>
+	
+	<110015 caption="FPS:" />
+	<110016 caption="--.--" />
+	<110017 caption="" />
+	
+	<19102 caption="|||||||||" />
+	<19103 caption="|||||||||" />
+	<19104 caption="|||||||||" />
+	<19105 caption="|||||||||" />
+	<19106 caption="|speed alarm|call" />
+	
+	<21013 caption="Travel data" />
+	<21023 caption="Navigation" />
+	<21033 caption="View" />
+	<21043 caption="Bluetooth" />
+	<21053 caption="Car" />
+	<21063 caption="Audio" />
+	<21073 caption="Assist" />
+	<21083 caption="Setting" />
+	<21093 caption="Fault" />
+	<21103 caption="Racing" />
+	<21113 caption="Camera" />
+	<21123 caption="Motor" />
+	<21133 caption="Layout" />
+	<21143 caption="Layout" />
+	<21153 caption="Layout" />
+
+	<22002 caption="N|NW|W|SW|S|SE|E|NE" />
+	<22003 caption="--:--" />
+	<22004 caption="--.-" />
+	<22005 caption="℃|℉" />
+	<22006 caption="|am|pm" />
+	<22012 caption="View" />
+	<22042 caption="%d" />
+	<22083 caption="%d" />
+	
+	<22059 caption="N|WN|W|SW|S|SE|E|NE" />
+	<22071 caption="--.-" />
+	<22072 caption="℃|℉" />
+	<22073 caption="|am|pm" />
+	
+	<!--<22002 caption="北|西北|西|西南|南|东南|东|东北" />-->
+	
+	<22056 caption="--:--" />
+	
+	<22021 caption="||The remote key is absent，cannot be started.|Remote key is not nearby.|Next oil change maintenance left|Next oil change maintenance left|Next condition check maintenance left|Next condition check maintenance left|Next oil change and condition check maintenance left|Next oil change and condition check maintenance left" />
+
+	<41004 caption="N|M1|M2|M3|M4|M5|M6|M7|M8|M9|P|R|D|S|E|D1|D2|D3|D4|D5|D6|D7|D8|D9|S1|S2|S3|S4|S5|S6|S7|S8|S9|E1|E2|E3|E4|E5|E6|E7|E8|E9" />
+	<41021 caption="℃|℉" />
+	<41022 caption="90|195" />
+										   
+	<51004 caption="---" />
+	<51005 caption="km/h|mph" />
+	<51014 caption="%ls km|%ls mi" />
+	<51016 caption="km/h|mph" />
+	
+	<160001 caption="0|0"     />
+	<160002 caption="20|20"   />
+	<160003 caption="40|40"   />
+	<160004 caption="60|60"   />
+	<160005 caption="100|80"  />
+	<160006 caption="140|100" />
+	<160007 caption="180|120" />
+	<160008 caption="220|140" />
+	<160009 caption="260|160" />
+	<160010 caption="10|10"   />
+	<160011 caption="30|30"   />
+	<160012 caption="50|50"   />
+	<160013 caption="80|70"   />
+	<160014 caption="120|90"  />
+	<160015 caption="160|110" />
+	<160016 caption="200|130" />
+	<160017 caption="240|150" />
+	
+	<160031 caption="0|0"     />
+	<160032 caption="20|10"   />
+	<160033 caption="40|20"   />
+	<160034 caption="60|30"   />
+	<160035 caption="80|40"   />
+	<160036 caption="100|60"  />
+	<160037 caption="120|80"  />
+	<160038 caption="160|100" />
+	<160039 caption="200|120" />
+	<160040 caption="260|160" />
+	<160041 caption="320|200" />
+	<160042 caption="10|"     />
+	<160043 caption="30|"     />
+	<160044 caption="50|"     />
+	<160045 caption="70|"     />
+	<160046 caption="90|"     />
+	<160047 caption="110|"    />
+	<160048 caption="140|"    />
+	<160049 caption="180|"    />
+	<160050 caption="230|"    />
+	<160051 caption="290|"    />
+										   
+	<44003 caption="40"/>
+	<44004 caption="Consumption" />
+	<44005 caption="Since start"/>
+	<44006 caption="Avg"/>
+	<44007 caption="--.-" />
+	<44008 caption="l/100km|km/l|mpg(US)|mpg(UK)"/>
+	
+	<47101 caption="Avg.Consump" />
+	<47102 caption="Accumulative:" />
+	<47103 caption="SinceStart:" />
+	<47104 caption="Refueling:" />
+	<47105 caption="--.-|%.1f" />
+	<47106 caption="--.-|%.1f" />
+	<47107 caption="--.-|%.1f" />
+	<47108 caption="l/100km|km/l|mpg(US)|mpg(UK)" />
+	
+	<47201 caption="Mileage" />
+	<47202 caption="Accumulative:" />
+	<47203 caption="SinceStart:" />
+	<47204 caption="Refueling:" />
+	<47205 caption="---|%d" />
+	<47206 caption="---|%d" />
+	<47207 caption="---|%d" />
+	<47208 caption="km|mi" />
+	
+	<47301 caption="Time" />
+	<47302 caption="Accumulative:" />
+	<47303 caption="SinceStart:" />
+	<47304 caption="Refueling:" />
+	<47305 caption="--:--|%02d:%02d" />
+	<47306 caption="--:--|%02d:%02d" />
+	<47307 caption="--:--|%02d:%02d" />
+	<47308 caption="" />
+	
+	<47401 caption="Avg.Speed" />
+	<47402 caption="Accumulative:" />
+	<47403 caption="SinceStart:" />
+	<47404 caption="Refueling:" />
+	<47405 caption="---|%d" />
+	<47406 caption="---|%d" />
+	<47407 caption="---|%d" />
+	<47408 caption="km/h|mph" />
+		
+	<57101 caption="Avg.Consump" />
+	<57102 caption="Accumulative:" />
+	<57103 caption="SinceStart:" />
+	<57104 caption="Refueling:" />
+	<57105 caption="--.-|%.1f" />
+	<57106 caption="--.-|%.1f" />
+	<57107 caption="--.-|%.1f" />
+	<57108 caption="l/100km|km/l|mpg(US)|mpg(UK)" />
+	
+	<57201 caption="Mileage" />
+	<57202 caption="Accumulative:" />
+	<57203 caption="SinceStart:" />
+	<57204 caption="Refueling:" />
+	<57205 caption="---|%d" />
+	<57206 caption="---|%d" />
+	<57207 caption="---|%d" />
+	<57208 caption="km|mi" />
+	
+	<57301 caption="Time" />
+	<57302 caption="Accumulative:" />
+	<57303 caption="SinceStart:" />
+	<57304 caption="Refueling:" />
+	<57305 caption="--:--|%02d:%02d" />
+	<57306 caption="--:--|%02d:%02d" />
+	<57307 caption="--:--|%02d:%02d" />
+	<57308 caption="" />
+	
+	<57401 caption="Avg.Speed" />
+	<57402 caption="Accumulative:" />
+	<57403 caption="SinceStart:" />
+	<57404 caption="Refueling:" />
+	<57405 caption="---|%d" />
+	<57406 caption="---|%d" />
+	<57407 caption="---|%d" />
+	<57408 caption="km/h|mph" />
+										  
+	<54003 caption="max"/>
+	<54004 caption="Driving range" />
+	<54006 caption="---" />
+	<54007 caption="km|mi"/>
+	<54012 caption="---" />
+	<54014 caption="---" />
+	
+	<55010 caption="Avg --.-|Avg %.1f" />
+	<55011 caption="Range---|Range%dkm|Range%dmi" />
+
+	<45002 caption="---"/>
+	<45003 caption="m"/>
+	<45004 caption="Unkonwn road"/>
+	<45024 caption="--:--|%d:%02d|%d:%02dam|%d:%02dpm" />
+	<45025 caption="---|%d km|%.1f km|%d mi|%.1f mi" />
+
+	<47001 caption="N|M1|M2|M3|M4|M5|M6|M7|M8|M9|P|R|D|S|E|D1|D2|D3|D4|D5|D6|D7|D8|D9|S1|S2|S3|S4|S5|S6|S7|S8|S9|E1|E2|E3|E4|E5|E6|E7|E8|E9" />
+	<48008  caption="N|M1|M2|M3|M4|M5|M6|M7|M8|M9|P|R|D|S|E|D1|D2|D3|D4|D5|D6|D7|D8|D9|S1|S2|S3|S4|S5|S6|S7|S8|S9|E1|E2|E3|E4|E5|E6|E7|E8|E9" />
+	
+	<56033 caption="|Off course|Calculate route|Waypoint"/>
+	<56043 caption="%d m|%.1f km|%d yd|%d ft|%.1f mi" />
+	<56034 caption="Unkonwn road" />
+	
+	<145004 caption="Unkonwn road"/>
+	<156005 caption="---°|%d°"/>
+	<145024 caption="--:--|%d:%02d|%d:%02dam|%d:%02dpm" />
+	<145025 caption="---|%d km|%.1f km|%d mi|%.1f mi" />
+	
+	<156033 caption="|Off course|Calculate route|Waypoint"/>
+	<156043 caption="%d m|%.1f km|%d yd|%d ft|%.1f mi" />
+	<156034 caption="Unkonwn road" />
+	
+	<60002  caption="0" />
+	<60003  caption="km/h|mph" />
+	<60015  caption="N" />
+	<60024  caption="|STT START|STT STOP|ECONOMIC" />
+	
+	<60077  caption="0" />
+	<60078  caption="km/h|mph" />
+	<60079  caption="N" />
+	<60080  caption="|STT START|STT STOP|ECONOMIC" />
+	
+	<60081  caption="0" />
+	<60082  caption="km/h|mph" />
+	<60083  caption="N" />
+	<60084  caption="|STT START|STT STOP|ECONOMIC" />
+	
+	<60032 caption="%ls km|%ls mi" />
+	<60094 caption="%ls km|%ls mi" />
+	
+	<!--运动标题-->
+	<60020  caption="--- km|%d km|%d mi" />
+	<60021  caption="yyyy-mm-dd|%04d-%02d-%02d" />
+	
+	<22077  caption="" />
+	
+	<57001 caption=""  />
+	<57004 caption="km/h|mph" />
+	<58008 caption="160" />
+	
+	<60301 caption="N|M1|M2|M3|M4|M5|M6|M7|M8|M9|P|R|D|S|E|D1|D2|D3|D4|D5|D6|D7|D8|D9|S1|S2|S3|S4|S5|S6|S7|S8|S9|E1|E2|E3|E4|E5|E6|E7|E8|E9" />
+	<60302 caption="" />
+	<60328  caption="1/min x1000" />
+	<60303  caption="km/h|mph" />
+	<60332  caption="%ls km|%ls mi" />
+	<60335  caption="%ls km|%ls mi" />
+	
+	<!--数字进度-->
+	<60318 caption="---|%d ℃|%d ℉" />
+	<60319 caption="---|%.1f L/h|%.1f L/100km" />
+	
+	<64006 caption="trip"/>
+	<64007 caption="km|mi" />
+	<64008 caption="--" />
+	<64030 caption="." />
+	<64031 caption="-" />
+	<64009 caption="---" />
+	<64010 caption="km|mi|km/h|mph" />
+	
+	<64018 caption="key mode" />
+	<64019 caption="|%d-%d" />
+
+	<65002 caption="FM1|FM2|FM3|AM1|AM2" />
+	<64012 caption="(V)" />
+	<64013 caption="---.--" />
+	
+	<111009 caption="Driven distance" />
+	<111010 caption="- - -" />
+	<111011 caption="km|mi" />
+	<111012 caption="Travel time"/>
+	<111013 caption="--:--" />
+	<111014 caption="h" />
+	
+	<111031 caption="trip"/>
+	<111035 caption="km|mi" />
+	<111032 caption="--" />
+	<111033 caption="."  />
+	<111034 caption="-"  />
+	
+	<111036 caption="---" />
+	<111037 caption="km|mi" />
+	
+	<!--关机画面-->
+	<111015 caption="Consumed since start" />
+	<111016 caption="---.-|%.1f" />
+	<111017 caption="l/100km|km/l|mpg(US)|mpg(UK)" />
+	<111018 caption="Range"/>
+	<111019 caption="---|%d" />
+	<111025 caption="km|mi" />
+	
+	<111026 caption="Data since startup" />
+	
+	<110013 caption="" />
+	<110014 caption="" />
+	
+	<160061 caption="0|0"     />
+	<160062 caption="20|20"   />
+	<160063 caption="40|40"   />
+	<160064 caption="60|60"   />
+	<160065 caption="100|80"  />
+	<160066 caption="140|100" />
+	<160067 caption="180|120" />
+	<160068 caption="220|140" />
+	<160069 caption="260|160" />
+	<160070 caption="10|10"   />
+	<160071 caption="30|30"   />
+	<160072 caption="50|50"   />
+	<160073 caption="80|70"   />
+	<160074 caption="120|90"  />
+	<160075 caption="160|110" />
+	<160076 caption="200|130" />
+	<160077 caption="240|150" />
+	
+	<160091 caption="0|0"     />
+	<160092 caption="20|10"   />
+	<160093 caption="40|20"   />
+	<160094 caption="60|30"   />
+	<160095 caption="80|40"   />
+	<160096 caption="100|60"  />
+	<160097 caption="120|80"  />
+	<160098 caption="160|100" />
+	<160099 caption="200|120" />
+	<160100 caption="260|160" />
+	<160101 caption="320|200" />
+	<160102 caption="10|"     />
+	<160103 caption="30|"     />
+	<160104 caption="50|"     />
+	<160105 caption="70|"     />
+	<160106 caption="90|"     />
+	<160107 caption="110|"    />
+	<160108 caption="140|"    />
+	<160109 caption="180|"    />
+	<160110 caption="230|"    />
+	<160111 caption="290|"    />
+	
+	<110103 caption="|Request to Upgrade MCU|MCU is being upgraded|Exit the upgrade MCU|Upgrade MCU complete" />
+	<110104 caption="|" />
+	<110105 caption="|Upgrade CPU complete|Upgrade CPU complete， pull out the U disk|Upgrade is complete， pull out the U disk and press any key to restart|Upgrade is complete， press any key to restart" />
+	
+	<110112 caption="uboot:" />
+	<110113 caption="SPI loader:" />
+	<110114 caption="kernel:" />
+	<110115 caption="qxservice:" />
+	<110116 caption="vspdu:" />
+	<110117 caption="app:" />
+	<110118 caption="mcuiap:" />
+	<110119 caption="mcuapp:" />
+	
+	<110122 caption="" />
+	<110123 caption="" />
+	<110124 caption="" />
+	<110125 caption="" />
+	<110126 caption="" />
+	<110127 caption="" />
+	<110128 caption="" />
+	<110129 caption="" />
+	
+	<112199 caption="FACTORY TEST VERSION" />
+	
+	<110202  >
+	    <caption caption="It will upgrade via U disk， press any key to cancel!" />
+	    <caption caption="The upgrade will take a few minutes， and it will restart several times. Please don't pull out the U disk or power off ! Copy Files ..." />
+	    <caption caption="Error copying files from U disk! Press any key to restart" />
+	    <caption caption="The upgrade will take a few minutes， and it will restart several times. Please don't power off ! Extracte files ..." />
+	    <caption caption="Error extracting file! Press any key to restart" />
+	    <caption caption="The upgrade will take a few minutes， and it will restart several times. Please don't power off ! Start the upgrade ..." />
+	    <caption caption="Error setting upgrade status! Press any key to restart" />
+	    <caption caption="The upgrade will take a few minutes， and it will restart several times， Upgrading CPU Progress ..." />
+	    <caption caption="" />
+	    <caption caption="" />
+	    <caption caption="" />
+	    <caption caption="" />
+	    <caption caption="Config custom file config finished" />
+	</110202>
+	
+	<110206  >
+	    <caption caption="" />
+	    <caption caption="ANT1" />
+	    <caption caption="ANT1" />
+	    <caption caption="MCU" />
+	    <caption caption="CPU" />
+	</110206>
+	
+	<110207  >
+	    <caption caption="set flag failed" />
+	    <caption caption="open file failed" />
+	    <caption caption="no file" />
+	    <caption caption="file path is empty" />
+	    <caption caption="invalid data" />
+	    <caption caption="wait timeout" />
+	    <caption caption="run shell failed" />
+	</110207>
+	
+	<110203 caption="%d|" />
+	<110301 caption="" />
+</lang>
